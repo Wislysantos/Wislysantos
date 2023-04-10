@@ -7,11 +7,6 @@
 - ⚡Sou organizado e adoro o trabalho em equipe. Busco sempre compartilhar meus conhecimentos e adquirir novos, além de prezar pelo diálogo e harmonia do grupo.
 
 - 🤔Possuo habilidade com React.Js, Next.Js, .dotnet, arquitetura de projeto DDD, GitHub, Html, Css, StyleComponent, JavaScript, TypeScript, DevExtreme e React com TypeScript.
-<div>
-  <a href="https://github.com/Wislysantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wislysantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wislysantos&layout=compact&langs_count=16&theme=dark"/>
-</div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Wisly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
